@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ExpenditureAutomation
 {
-    public partial class Form1 : Form
+    public partial class frmUserLogin : Form
     {
-        public Form1()
+        public frmUserLogin()
         {
             InitializeComponent();
         }
